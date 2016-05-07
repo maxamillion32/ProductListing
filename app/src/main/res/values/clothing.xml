@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clothing">
+        <item>Shirt</item>
+        <item>T-Shirt</item>
+        <item>Showes</item>
+        <item>Saries</item>
+        <item>Tharmal Vest</item>
+        <item>T-Shirt</item>
+        <item>T-Shirt</item>
+        <item>T-Shirt</item>
+        <item>T-Shirt</item>
+        <item>V Cut T-Shirt</item>
+        <item>T-Shirt</item>
+        <item>T-Shirt</item>
+        <item>T-Shirt</item>
+        <item>T-Shirt</item>
+        <item>T-Shirt</item>
+    </string-array>
+</resources>

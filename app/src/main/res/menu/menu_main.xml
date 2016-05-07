@@ -1,0 +1,54 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.visionezone.rajib.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/share_id"
+        android:title="Share"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_share"
+        />
+    <item
+        android:id="@+id/cart_id"
+        android:title="Cart"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_cart"
+        />
+    <item
+        android:id="@+id/store_id"
+        android:title="Store"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/product_id"
+        android:title="Products"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/about_us_id"
+        android:title="About Us"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/contact_us_id"
+        android:title="Contact Us"
+        app:showAsAction="never"
+        android:orderInCategory="101"
+        />
+    <item
+        android:id="@+id/settings_id"
+        android:title="Settings"
+        app:showAsAction="never"
+        android:orderInCategory="102"
+        />
+    <item
+        android:id="@+id/our_site_id"
+        android:title="Our Website"
+        app:showAsAction="never"
+        android:orderInCategory="103"
+        />
+</menu>
